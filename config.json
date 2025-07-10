@@ -1,0 +1,15 @@
+{
+  "twilio_account_sid": "ACdd2523939b4a9086e6094271f234545",
+  "twilio_auth_token": "867e9313qewrret432453657",
+  "twilio_from_number": "+14159407210",
+  "alert_to_number": "+919704309100",
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "youremail@gmail.com",
+    "sender_password": "your_app_password",
+    "receiver_email": "targetemail@gmail.com"
+  },
+  "gpio_motion_pin": 18,
+  "gpio_buzzer_pin": 23
+}
